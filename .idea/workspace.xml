@@ -2,13 +2,89 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00d76402-40fd-484a-a11b-3b8f06957dca" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/BillBreak.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\Layout\BillBreak_Template-01.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\Layout\BillBreak_Template-02.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\Layout\BillBreak_Template-03.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\Layout\BillBreak_Template-04.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\Layout\BillBreak_Template.ai" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\.env.example" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\.gitattributes" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\app\Console\Commands\Inspire.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\app\Console\Kernel.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\app\Events\Event.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\app\Exceptions\Handler.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\app\Http\Controllers\Auth\AuthController.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\app\Http\Controllers\Auth\PasswordController.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\app\Http\Controllers\Controller.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\app\Http\Kernel.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\app\Http\Middleware\Authenticate.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\app\Http\Middleware\EncryptCookies.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\app\Http\Middleware\RedirectIfAuthenticated.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\app\Http\Middleware\VerifyCsrfToken.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\app\Http\Requests\Request.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\app\Http\routes.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\app\Jobs\Job.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\app\Listeners\.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\app\Policies\.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\app\Providers\AppServiceProvider.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\app\Providers\AuthServiceProvider.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\app\Providers\EventServiceProvider.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\app\Providers\RouteServiceProvider.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\app\User.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\artisan" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\bootstrap\app.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\bootstrap\autoload.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\bootstrap\cache\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\composer.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\composer.lock" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\config\app.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\config\auth.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\config\broadcasting.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\config\cache.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\config\compile.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\config\database.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\config\filesystems.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\config\mail.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\config\queue.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\config\services.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\config\session.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\config\view.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\database\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\database\factories\ModelFactory.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\database\migrations\.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\database\migrations\2014_10_12_000000_create_users_table.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\database\migrations\2014_10_12_100000_create_password_resets_table.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\database\seeds\.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\database\seeds\DatabaseSeeder.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\phpspec.yml" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\phpunit.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\public\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\public\favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\public\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\public\robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\readme.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\resources\assets\sass\app.scss" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\resources\lang\en\auth.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\resources\lang\en\pagination.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\resources\lang\en\passwords.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\resources\lang\en\validation.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\resources\views\errors\503.blade.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\resources\views\vendor\.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\resources\views\welcome.blade.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\server.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\storage\app\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\storage\framework\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\storage\framework\cache\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\storage\framework\sessions\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\storage\framework\views\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\storage\logs\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\tests\ExampleTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\BillBreak\laravel\tests\TestCase.php" afterPath="" />
       <change type="MOVED" beforePath="C:\xampp\htdocs\BillBreak\README.md" afterPath="$PROJECT_DIR$/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BillBreak.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,21 +109,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/readme.md">
+      <file leaf-file-name="artisan" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel/artisan">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.68" vertical-offset="0" max-vertical-offset="136">
-              <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.php">
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.03526971" vertical-offset="0" max-vertical-offset="482">
-              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.08877285" vertical-offset="0" max-vertical-offset="383">
+              <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -61,8 +137,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/laravel/bootstrap/autoload.php" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
@@ -71,10 +148,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="356" />
-    <option name="y" value="68" />
-    <option name="width" value="872" />
-    <option name="height" value="641" />
+    <option name="x" value="172" />
+    <option name="y" value="27" />
+    <option name="width" value="1057" />
+    <option name="height" value="516" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -99,6 +176,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -117,14 +195,52 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BillBreak" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BillBreak" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BillBreak" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BillBreak" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\BillBreak" />
+      <recent name="C:\xampp\htdocs\BillBreak\layout" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -141,15 +257,24 @@
       <BehatRunner />
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="00d76402-40fd-484a-a11b-3b8f06957dca" name="Default" comment="" />
@@ -160,29 +285,32 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="356" y="68" width="872" height="641" extended-state="0" />
-    <editor active="true" />
+    <frame x="172" y="27" width="1057" height="516" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3756004" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -205,18 +333,26 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/readme.md">
+    <entry file="file://$PROJECT_DIR$/laravel/artisan">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.68" vertical-offset="0" max-vertical-offset="136">
-          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/laravel/artisan">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03526971" vertical-offset="0" max-vertical-offset="482">
-          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08877285" vertical-offset="0" max-vertical-offset="383">
+          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
           <folding />
         </state>
       </provider>
