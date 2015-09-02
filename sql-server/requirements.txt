@@ -1,0 +1,13 @@
+SQL
+username root
+password root
+3 tables linked.
+
+
+Database Name: BillBreak
+2 Tables
+--> primaryUsers
+----> Email (unique) - Password () - Account Level ()
+--> secondaryUsers
+----> Email (unique) - Password () - Account Level ()
+--> billing
