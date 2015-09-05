@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <title>Bill Break</title>
         <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.5/paper/bootstrap.min.css" rel="stylesheet" integrity="sha256-hMIwZV8FylgKjXnmRI2YY0HLnozYr7Cuo1JvRtzmPWs= sha512-k+wW4K+gHODPy/0gaAMUNmCItIunOZ+PeLW7iZwkDZH/wMaTrSJTt7zK6TGy6p+rnDBghAxdvu1LX2Ohg0ypDw==" crossorigin="anonymous">
-        <link href="/public/css/main.css" rel="stylesheet">
+        <link href="css/main.css" rel="stylesheet">
     </head>
     <body>
         <nav class="navbar navbar-default">
@@ -51,7 +51,7 @@
             </div>
               <ul class="nav navbar-nav navbar-right">
                 <li><a href="home">Home <span class="sr-only">(current)</span></a></li>
-                <li><a href="signin" data-toggle="modal" data-target="#myModal">Sign In</a></li>
+                <li><a href="signin">Sign In</a></li>
                 <li><a href="register">Register</a></li>
                 <li><a href="contact">Contact Us</a></li>
               </ul>

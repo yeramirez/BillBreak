@@ -27,6 +27,7 @@
             <div class="col-lg-10">
                 {!! Form::password('password', null, ['class' => 'form-control']) !!}
             </div>
+            {!! Form::submit('Submit', ['class' => 'btn btn-default']); !!}
         </div>
 </div>
 {!! Form::close() !!}
