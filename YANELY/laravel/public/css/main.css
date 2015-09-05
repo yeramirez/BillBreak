@@ -1,0 +1,95 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+    margin-bottom: 60px;
+    font-family: 'Montserrat';
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  background-color: #f5f5f5;
+}
+
+.container {
+    padding: 0px;
+}
+
+.navbar {
+    webkit-box-shadow: none;
+    box-shadow: none;
+}
+.navbar-default {
+    background-color: #303030;
+    margin: 0;
+    border-radius: 0px;
+    border-bottom: none;
+}
+
+.navbar-default .navbar-brand {
+    padding-top: 5px;
+    padding-left: 15px;
+}
+
+.navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+    color: #FF9014;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+    background-color: #303030;
+    border-bottom: 1px solid #FFFFFF;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: #ffffff;
+}
+
+.navbar-nav>li>a {
+    padding-bottom: 10px;
+}
+
+.jumbotron, .jumbotron h1 {
+    background-color: #303030;
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.btn {
+    background-color: #FF9014;
+}
+
+.well {
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.st0{fill:#303030;}
+.st1{fill:#FF9014;}
+.st10{clip-path:url(#SVGID_2_);}
+.st11{fill:#FFFFFF;}
+.st12{clip-path:url(#SVGID_4_);}
+.st13{fill:#FF9014;}
+.st14{font-family:'Montserrat-Regular';}
+.st15{font-size:12px;}
+.st16{clip-path:url(#SVGID_6_);}
+
+svg {
+    height: 103px;
+    width: 103px;
+}
+
+.svg-logo {
+    height: 60px;
+}
+
+section {
+    text-align: center;
+}
+
+footer > div > ul > li > a {
+    color: #FF9014;
+}
