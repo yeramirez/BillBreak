@@ -1,0 +1,144 @@
+/*
+.page-heading {
+  margin-top: 1em;
+  margin-bottom: 0;
+  padding-bottom: 1em;
+  text-align: center; }
+
+body {
+  color: blue; }
+*/
+
+/*# sourceMappingURL=main.css.map */
+
+@media (max-width: 780px) {
+    a, li, ul {
+        width: 780;
+    }
+}
+
+@media (max-width: 400px) {
+    a, li, ul {
+        width: 400px;
+        padding-right: 0px;
+    }
+}
+
+body {
+    font-family: 'Montserrat';
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    background-color: #f5f5f5;
+}
+
+h3 {
+    text-align: center;
+}
+
+.container {
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+}
+
+form {
+    margin: 0 auto;
+}
+
+.navbar {
+    webkit-box-shadow: none;
+    box-shadow: none;
+}
+.navbar-default {
+    background-color: #303030;
+    margin: 0;
+    border-radius: 0px;
+    border-bottom: none;
+}
+
+.navbar-default .navbar-brand {
+    padding-top: 5px;
+    padding-left: 15px;
+}
+
+.navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus, footer>.container>.nav>li>a:hover{
+    color: #FF9014;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+    background-color: #303030;
+    border-bottom: 1px solid #FFFFFF;
+}
+
+.navbar-default .navbar-nav>li>a:hover, .navbar-nav>li>a:active , footer>.container>.nav>li>a:hover,  {
+    color: #ffffff;
+}
+
+.navbar-nav>li>a {
+    padding-bottom: 10px;
+}
+
+.jumbotron, .jumbotron h1 {
+    background-color: #303030;
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 0px;
+    border-radius: 0px;
+}
+
+.btn {
+    background-color: #FF9014;
+}
+
+.well {
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.st0{fill:#303030;}
+.st1{fill:#FF9014;}
+.st10{clip-path:url(#SVGID_2_);}
+.st11{fill:#FFFFFF;}
+.st12{clip-path:url(#SVGID_4_);}
+.st13{fill:#FF9014;}
+.st14{font-family:'Montserrat-Regular';}
+.st15{font-size:12px;}
+.st16{clip-path:url(#SVGID_6_);}
+
+svg {
+    height: 103px;
+    width: 103px;
+}
+
+.svg-logo {
+    height: 60px;
+}
+
+section {
+    text-align: center;
+}
+
+input {
+    height: 35px;
+}
+
+footer > div > ul > li > a {
+    color: #FF9014;
+}
+
+.index {
+    padding-bottom: 30px;
+}
+
+.row {
+    margin-top: 20px;
+}
+
+.btn-link {
+    color: #67cbf8;
+    background-color: #ffffff;
+}
