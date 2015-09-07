@@ -23,7 +23,7 @@ class AuthController extends Controller{
     use AuthenticatesAndRegistersUsers, ThrottlesLogins;
 
 
-    protected $redirectTo = 'notices/create';
+    protected $redirectTo = 'pages/dashboard';
     /**
      * Create a new authentication controller instance.
      *

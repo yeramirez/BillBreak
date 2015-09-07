@@ -4,6 +4,7 @@
 Route::get('/','PagesController@index');
 Route::get('notices/create/confirm','NoticesController@confirm');
 Route::resource('notices', 'NoticesController');
+Route::get('dashboard', 'PagesController@dashboard');
 
 
 
