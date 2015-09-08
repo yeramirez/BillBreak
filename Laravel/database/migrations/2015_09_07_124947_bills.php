@@ -16,7 +16,7 @@ class Bills extends Migration
             $table->increments('id');
             $table->string('bill_name');
             $table->integer('amount', 11);
-            $table->rememberToken();
+//            $table->rememberToken();
             $table->timestamps();
         });
     }
