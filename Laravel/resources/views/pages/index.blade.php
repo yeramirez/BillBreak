@@ -10,7 +10,7 @@
     </form>
 </div>
 <div class="well well-sm">
-  Version 2 coming soon
+  Version 3 coming soon
 </div>
 <div class="container index">
     <section class="col-md-4">
