@@ -11,11 +11,19 @@ class NoticesController extends Controller{
     public function create(){
         return view('notices.create');
     }
-    
+
     public function confirm(Requests\PrepareNoticeRequest $request){
         return $request->all();
 
     }
+
+    public function show(){
+    	return view('notices.addbill');
+    }
+
+    // public function addBill() {
+    // 	echo "Hello";
+    // }
 }
 
 

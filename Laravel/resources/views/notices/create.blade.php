@@ -17,7 +17,8 @@
         </div>
 
         <div class="form-group">
-            {!! Form::submit('Preview', ['class' => 'btn btn-primary']) !!}
+            {!! Form::submit('Preview', ['class' => 'btn btn-primary']) !!}&nbsp;&nbsp;
+            <?php echo link_to_action('PagesController@dashboard', $title = 'Back to Dashboard', $parameters = array(), $attributes = array()); ?>
         </div>
         {!! Form::close() !!}
 
