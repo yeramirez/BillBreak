@@ -6,6 +6,10 @@
 	<h3>Add a Bill</h3>
 	{!! Form::open() !!}
 	<div class="form-group">
+		{!! Form::label('bill_holder', 'Bill Holder: ') !!}
+		{!! Form::text('bill_holder', null, ['class' =>'form-control']) !!}
+	</div>
+	<div class="form-group">
 		{!! Form::label('bill_name', 'Bill Name: ') !!}
 		{!! Form::text('bill_name', null, ['class' =>'form-control']) !!}
 	</div>
