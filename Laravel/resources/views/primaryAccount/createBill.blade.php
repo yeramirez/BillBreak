@@ -14,7 +14,7 @@
 		{!! Form::text('bill_amount', null, ['class' =>'form-control']) !!}
 	</div>
 	<div class="form-group">
-            {!! Form::submit('Add', ['class' => 'btn btn-primary']) !!}&nbsp;&nbsp;
+            {!! Form::submit('Add Bill', ['class' => 'btn btn-primary']) !!}&nbsp;&nbsp;
             <?php echo link_to_action('PagesController@dashboard', $title = 'Back to Dashboard', $parameters = array(), $attributes = array()); ?>
     </div>
     {!! Form::close() !!}
