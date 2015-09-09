@@ -35,4 +35,29 @@ foreach ($roommates as $rm) {
 	</tbody>
 </table>
 
+<br>
+
+<table class="table table-bordered table-hover">
+	<thead>
+    <tr>
+      <th>Bill Name</th>
+      <th>Bill Amount</th>
+    </tr>
+  </thead>
+  <tbody>
+  	<tr>
+<?php
+$Aholder = Auth::user()->email;
+$bills = DB::select('select * from bills where bill_holder = ?', [$Aholder]);
+
+foreach ($bills as $bill) {
+	echo "<td>" . $bill->bill_name . "</td>";
+    echo "<td>$" . $bill->bill_amount . "<button type='button' class='btn-link pull-right'><span class='glyphicon glyphicon glyphicon-trash' aria-hidden=true'></span></button></td></tr>";
+}
+
+?>
+		
+	</tbody>
+</table>
+
 @endsection
