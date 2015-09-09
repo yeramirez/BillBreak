@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00d76402-40fd-484a-a11b-3b8f06957dca" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Laravel/resources/views/primaryAccount/createBill.blade.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Laravel/resources/views/billing/create.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Laravel/resources/views/billing/createbill.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Laravel/resources/views/emails/password.blade.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Laravel/resources/views/errors/503.blade.php" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Laravel/resources/views/errors/list.blade.php" afterPath="$PROJECT_DIR$/Laravel/resources/views/partials/list.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Laravel/app/Http/Controllers/BillingController.php" afterPath="$PROJECT_DIR$/Laravel/app/Http/Controllers/BillingController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Laravel/app/Http/Controllers/PagesController.php" afterPath="$PROJECT_DIR$/Laravel/app/Http/Controllers/PagesController.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Laravel/resources/views/pages/dashboard.blade.php" afterPath="$PROJECT_DIR$/Laravel/resources/views/pages/dashboard.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Laravel/resources/views/pages/index.blade.php" afterPath="$PROJECT_DIR$/Laravel/resources/views/pages/index.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Laravel/app/Http/routes.php" afterPath="$PROJECT_DIR$/Laravel/app/Http/routes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BillBreak.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,12 +24,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="addRoommate.blade.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="addRoommate.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Laravel/resources/views/primaryAccount/addRoommate.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6373938">
+            <state vertical-scroll-proportion="-18.75">
               <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dashboard.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Laravel/resources/views/pages/dashboard.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4674221">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding>
+                <marker date="1441776713000" expanded="true" signature="358:401" placeholder="select * fro..roommates..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -48,21 +49,11 @@
       <file leaf-file-name="RoommateController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Laravel/app/Http/Controllers/RoommateController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.25">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state vertical-scroll-proportion="-6.875">
+              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="39" />
               <folding>
                 <marker date="1441776449000" expanded="true" signature="482:548" placeholder="insert into ..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Roommates.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Laravel/app/Roommates.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -109,10 +100,10 @@
         <option value="$PROJECT_DIR$/Laravel/app/Http/Controllers/BillingController.php" />
         <option value="$PROJECT_DIR$/Laravel/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/Laravel/resources/views/primaryAccount/addRoommate.blade.php" />
-        <option value="$PROJECT_DIR$/Laravel/resources/views/pages/dashboard.blade.php" />
         <option value="$PROJECT_DIR$/Laravel/resources/views/pages/index.blade.php" />
         <option value="$PROJECT_DIR$/Laravel/app/Http/Controllers/RoommateController.php" />
         <option value="$PROJECT_DIR$/Laravel/app/Http/Controllers/PagesController.php" />
+        <option value="$PROJECT_DIR$/Laravel/resources/views/pages/dashboard.blade.php" />
       </list>
     </option>
   </component>
@@ -232,6 +223,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="primaryAccount" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BillBreak" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BillBreak-Yanely" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -733,14 +750,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Laravel/resources/views/pages/dashboard.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23371105">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Laravel/app/Http/Controllers/PagesController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.75">
@@ -749,13 +758,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Laravel/app/Http/Controllers/RoommateController.php">
+    <entry file="file://$PROJECT_DIR$/Laravel/resources/views/primaryAccount/addRoommate.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.25">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <marker date="1441776449000" expanded="true" signature="482:548" placeholder="insert into ..." />
-          </folding>
+        <state vertical-scroll-proportion="-18.75">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -767,11 +774,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Laravel/resources/views/primaryAccount/addRoommate.blade.php">
+    <entry file="file://$PROJECT_DIR$/Laravel/app/Http/Controllers/RoommateController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6373938">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="-6.875">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="39" />
+          <folding>
+            <marker date="1441776449000" expanded="true" signature="482:548" placeholder="insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Laravel/resources/views/pages/dashboard.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4674221">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <marker date="1441776713000" expanded="true" signature="358:401" placeholder="select * fro..roommates..." />
+          </folding>
         </state>
       </provider>
     </entry>
