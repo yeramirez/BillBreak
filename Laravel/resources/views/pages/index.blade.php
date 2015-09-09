@@ -5,8 +5,8 @@
 
 <div class="jumbotron">
   <h1>Register Today!</h1>
-    <form class="navbar-form" action="register">
-        <button class="btn button-link"><a href="{{ url('/auth/register') }}">Let's Get Started!</a></button>
+    <form class="navbar-form">
+        <button class="btn button-link"><a href="{{ url('/auth/register') }}">Let's Go Started!</a></button>
     </form>
 </div>
 <div class="well well-sm">

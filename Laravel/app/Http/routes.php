@@ -2,11 +2,18 @@
 
 /* The Home Page */
 Route::get('/','PagesController@index');
-Route::get('contact','PagesController@contact');
-Route::get('notices/create/confirm','NoticesController@confirm');
-Route::resource('notices', 'NoticesController');
 
-Route::get('addbill','NoticesController@addbill');
+
+/* The Primary Account Resources */
+Route::resource('billing', 'BillingController');
+Route::resource('roommate', 'RoommateController');
+
+
+
+
+
+
+
 
 Route::any('dashboard', [
     'middleware' => 'auth',
@@ -17,3 +24,4 @@ Route::controllers([
     'auth'   => 'Auth\AuthController',
     'password'   => 'Auth\PasswordController',
 ]);
+
