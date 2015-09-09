@@ -2,10 +2,12 @@
 
 /* The Home Page */
 Route::get('/','PagesController@index');
-Route::get('contact','PagesController@contact');
-Route::get('billing/create/confirm','BillingController@confirm');
+
+
+/* The Primary Account Resources */
 Route::resource('billing', 'BillingController');
-//Route::get('notices', 'NoticesController@juggle');
+Route::resource('roommate', 'RoommateController');
+
 
 
 
@@ -22,9 +24,4 @@ Route::controllers([
     'auth'   => 'Auth\AuthController',
     'password'   => 'Auth\PasswordController',
 ]);
-
-
-
-
-
 
