@@ -22,21 +22,33 @@ class BillingController extends Controller{
 
         $Aholder = Auth::user()->email;
         $roommates = DB::select('select * from roommates where rmPrimary = ?', [$Aholder]);
-        $count = DB::select('select count(*) from roommates where rmPrimary = ?', [$Aholder]);
+        $count = DB::select('select count(*) as rmCount from roommates where rmPrimary = ?', [$Aholder]);
+//        var_dump($count[0]->rmCount);
 
-        $Name = "James MAxfield"; //senders name
-        $email = "vercjames@gmail.com"; //senders e-mail adress
-        $recipient = "vercjames@gmail.com"; //recipient
-        $mail_body = "i love you"; //mail body
-        $subject = "I still love you"; //subject
-        $header = "From: ". $Name . " <" . $email . ">\r\n"; //optional headerfields
+        $intCount = $count[0]->rmCount;
+        $individualBill = ($Aamount/($intCount+1));
 
-        if(mail($recipient, $subject, $mail_body, $header)){
-            return view('partials.temp');
-        }else{
-            return view('partials.temp2');
+
+
+        $Name = Auth::user()->name; //senders name
+        $email = Auth::user()->email; //senders e-mail address
+        $subject = "Bill Summary for {$Aname}"; //recipient
+        $recipient = Auth::user()->email;
+        $mail_body = "The Total {$Aname} Bill is {$Aamount}. Each Roommate owes you {$individualBill}.";
+        $header = "From: ". $Name . " <" . $email . ">\r\n";
+        mail($recipient, $subject, $mail_body, $header);
+
+        $counter = 0;
+        while($counter < $intCount) {
+            $recipient = ($roommates[$counter]->rmEmail);
+            $mail_body = $mail_body = "The Total {$Aname} Bill is {$Aamount}. Please write me a check for {$individualBill} at your earliest convenience";
+            $header = "From: ". $Name . " <" . $email . ">\r\n";
+            mail($recipient, $subject, $mail_body, $header);
+
+            $counter++;
         }
 
+        return view('pages.dashboard');
 
     }
 
