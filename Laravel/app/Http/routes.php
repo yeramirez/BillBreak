@@ -3,10 +3,15 @@
 /* The Home Page */
 Route::get('/','PagesController@index');
 Route::get('contact','PagesController@contact');
-Route::get('notices/create/confirm','NoticesController@confirm');
-Route::resource('notices', 'NoticesController');
+Route::get('billing/create/confirm','BillingController@confirm');
+Route::resource('billing', 'BillingController');
+//Route::get('notices', 'NoticesController@juggle');
 
-Route::get('addbill','NoticesController@addbill');
+
+
+
+
+
 
 Route::any('dashboard', [
     'middleware' => 'auth',
@@ -17,3 +22,9 @@ Route::controllers([
     'auth'   => 'Auth\AuthController',
     'password'   => 'Auth\PasswordController',
 ]);
+
+
+
+
+
+
