@@ -19,7 +19,7 @@ class RoommateController extends Controller{
         $rmEmail = $_POST['inviteEmail'];
         DB::insert('insert into roommates (rmPrimary, rmName,rmEmail) values (?, ?, ?)', [$Aholder, $rmName, $rmEmail]);
 
-        return view('partials.temp');
+        return view('pages.dashboard');
     }
 
 }
